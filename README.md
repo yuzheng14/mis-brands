@@ -17,3 +17,9 @@ Yes, you can! Not from me, but from any custom sticker vendor of your choice.
 
 #### Will there be more?
 Unlikely but still possible.
+
+# TODO
+
+- [x] merge pull requests
+- [ ] review all issues
+- [ ] online showcase ( vite + react deployed on github pages maybe)
